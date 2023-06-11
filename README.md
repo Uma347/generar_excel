@@ -1,7 +1,7 @@
 ﻿# generar_excel
 - PHP es: 8.1.17
-- Composer version 2.3.5 2022-04-13 16:43:00
-- XAMPP 
+- Composer version 2.3.5 2022-04-13
+- XAMPP
 1. Descargar composer para windows desde:
 https://getcomposer.org/download/ 
 2. Hacer clic en "Composer-Setup.exe"
