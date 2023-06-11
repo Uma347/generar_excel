@@ -1,0 +1,9 @@
+1. Descargar composer para windows desde:
+https://getcomposer.org/download/ 
+
+2. Hacer clic en "Composer-Setup.exe"
+3. Modificar el archivo php.ini(XAMMP), o el archivo de configuración de php correspondiente y descomentar (quitar punto y coma)
+   la linea: ;extension=gd 
+4. ejecutar en la terminal:
+          composer update --ignore-platform-req=ext-gd
+          composer update
